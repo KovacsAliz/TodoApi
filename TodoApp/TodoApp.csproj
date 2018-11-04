@@ -5,7 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <Content Include="Css\styles.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\index.css" />
   </ItemGroup>
 
   <ItemGroup>
